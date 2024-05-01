@@ -1,3 +1,9 @@
+/**
+ * Testklasse für die Regex-Klasse.
+ * Überprüft, ob die Regex-Klasse die Hostnamen und IP-Adressen korrekt validiert.
+ * @author Bernhard Aichinger-Ganas
+ * @version 2024-05-01
+ */
 public class Test {
     public static void main(String[] args) {
         Regex regex = new Regex();
